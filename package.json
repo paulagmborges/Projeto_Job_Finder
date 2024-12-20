@@ -1,0 +1,22 @@
+{
+  "name": "projeto_job_finder",
+  "version": "1.0.0",
+  "description": "Projeto feito no Curso de JavaScript do básico ao avançado",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "express-handlebars": "^8.0.1",
+    "sequelize": "^6.37.5",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.6.2"
+  }
+}
